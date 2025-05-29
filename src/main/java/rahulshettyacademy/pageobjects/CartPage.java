@@ -10,6 +10,9 @@ import org.openqa.selenium.support.PageFactory;
 import rahulshettyacademy.AbstractComponents.AbstractComponent;
 
 public class CartPage extends AbstractComponent{
+	//new update  v.4.5.0
+	//final fix ("mobile automation added")
+
     WebDriver driver;
     
     @FindBy(css=".totalRow button")
